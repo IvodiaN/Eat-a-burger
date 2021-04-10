@@ -1,0 +1,26 @@
+{
+  "name": "eat-a-burger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvodiaN/Eat-a-burger.git"
+  },
+  "author": "IvodiaN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvodiaN/Eat-a-burger/issues"
+  },
+  "homepage": "https://github.com/IvodiaN/Eat-a-burger#readme",
+  "dependencies": {
+    "express": "4.17.1",
+    "express-handlebars": "^5.3.0",
+    "method-override": "^3.0.0",
+    "mysql": "^2.18.1"
+  }
+}
