@@ -1,5 +1,5 @@
  html {
- 	background-color: #FFC04C;
+ 	background-color: #4caeff;
  }
 
  body {
@@ -9,7 +9,7 @@
 	display: flex;
 	min-height: 100vh;
 	flex-direction: column;
-	background-color: white;
+	background-color: #ffffffde;
  }
 
  #cute_burger {
@@ -25,7 +25,7 @@
  }
 
  .burgerAvailable {
- 	font-family: 'Crafty Girls', cursive;
+ 	font-family: sans-serif;
  	font-weight: normal;
  	font-size: 20px;
  	text-align: center;
@@ -34,16 +34,16 @@
  	width: 100%;
  	margin: 10px;
  	padding: 10px;
- 	background-color: #b7ffc2;
+ 	background-color: #ffb7df;
  	border: none;
  }
 
  .burgerAvailable:hover {
- 	background-color: #81ff94;
+ 	background-color: #ffd381;
  }
 
  .burgerEaten {
- 	font-family: 'Crafty Girls', cursive;
+ 	font-family: sans-serif;
  	font-weight: normal;
  	font-size: 20px;
  	text-align: center;
@@ -62,11 +62,11 @@
  }
 
  .formContainer {
- 	background-color: orange;
+ 	background-color: #4caeff;
  }
 
  .addBurgerButton {
- 	font-family: 'Crafty Girls', cursive;
+ 	font-family: sans-serif;
  	font-weight: normal;
  	font-size: 20px;
  	text-align: center;
@@ -75,15 +75,15 @@
  	width: 100%;
  	margin: 0;
  	padding: 10px;
- 	background-color: #FFC04C;
+ 	background-color: #4ce4ff;
  	border: none;
  }
 
 .addBurgerButton:active {
-	background-color: #FFC04C;
+	background-color: #4ce4ff;
 }
 
 .burgerFooter {
-	background-color: #FFC04C;
+	background-color: #ff8e4c;
 	padding: 20px 0;
 }
